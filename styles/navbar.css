@@ -1,0 +1,52 @@
+.navbar {
+    background-color: black!important;
+}
+
+.navbar-brand {
+    color: white!important;
+}
+
+.btn {
+    background-color: white!important;
+    color: black!important;
+    border: 1px solid white!important;
+}
+
+.btn:hover {
+    background-color: black!important;
+    color: white!important;
+    border: 1px solid white!important;
+}
+
+.navbar-toggler-icon {
+    background-color: white!important;
+    border-radius: 3px!important;
+}
+
+//MAIN
+.row {
+    
+    
+}
+main {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+//CARD
+#card-geral-poke {
+    
+}
+
+.card-img-top {
+    width: 200px!important;
+    height: 200px!important;
+    margin: auto!important;
+    background-color: red;
+    border-radius: 50%!important;
+}
+
+.card-cor {
+    width: 300px!important;
+    margin: auto!important;
+}
