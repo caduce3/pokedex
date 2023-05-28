@@ -51,13 +51,16 @@ const createPokemonCard = (poke) => {
     const pokemonsInnerHTML = 
     `
     <div class="col card-geral-pokedex">
-        <div class="card">
-            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${poke.id}.png" class="card-img-top" alt="${name}">
-            <div class="card-body">
-                <h5 class="card-title">${name}</h5>
-                <p class="card-text">Tipo: ${type}.</p>
+        
+            <div id='pa'>
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${poke.id}.png" class="card-img-top" alt="${name}">
+                <div class="card-body">
+                    <h5 class="card-title mt-3">${name}</h5>
+                    <p class="card-text mt-1" >#${id}</p>
+                    <p class="card-text mt-1">Tipo: ${type}.</p>
+                </div>
             </div>
-        </div>
+        
     </div>
     `
 

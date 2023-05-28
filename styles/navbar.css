@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&display=swap');
+
 .navbar {
     background-color: black!important;
 }
@@ -41,12 +43,28 @@ main {
 .card-img-top {
     width: 200px!important;
     height: 200px!important;
-    margin: auto!important;
-    background-color: red;
+    background-color: white;
     border-radius: 50%!important;
+    margin: auto!important;
 }
 
 .card-cor {
     width: 300px!important;
     margin: auto!important;
+    border-radius: 10px!important;
+    border: 1px solid black!important;
+    padding: 20px!important;
+    margin-bottom: 20px!important
+    
+}
+
+#pa {
+    text-align: center!important;
+}
+
+.card-body {
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: bold;
+    
+    
 }
