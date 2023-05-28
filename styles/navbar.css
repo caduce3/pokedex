@@ -1,17 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&display=swap');
 
+body {
+    font-family: 'Chakra Petch', sans-serif;
+}
 .navbar {
     background-color: black!important;
+    
 }
 
 .navbar-brand {
     color: white!important;
+    font-size: 30px!important;
+    
+}
+.container-fluid img {
+    width: 50px!important;
+    height: 50px!important;
+    border-radius: 50%!important;
 }
 
 .btn {
     background-color: white!important;
     color: black!important;
     border: 1px solid white!important;
+    width: 25% !important;
+   
+}
+
+.container-fluid {
+    display: flex!important;
+    justify-content: center!important;
+    align-items: center!important;
 }
 
 .btn:hover {
@@ -24,6 +43,7 @@
     background-color: white!important;
     border-radius: 3px!important;
 }
+
 
 //MAIN
 .row {
@@ -65,6 +85,4 @@ main {
 .card-body {
     font-family: 'Chakra Petch', sans-serif;
     font-weight: bold;
-    
-    
 }
