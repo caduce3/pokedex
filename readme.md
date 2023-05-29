@@ -1,0 +1,2 @@
+Esse é um projeto feito com HTML5, CSS3 e JavaScript, onde o intuito era eu mesmo adquirir conhecimento de conexão com API.
+Decidi utilizar a API do pokemon para fazer um pokedex, onde você pode pesquisar o pokemon pelo nome ou pelo tipo.
