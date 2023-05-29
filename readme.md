@@ -8,4 +8,4 @@ Decidi utilizar a API do pokemon para fazer um pokedex, onde você pode pesquisa
 - Bootstrap
 
 
-![image](https://github.com/caduce3/pokedex/assets/74209989/26155d9a-6646-41e0-85cf-6013b5809aab)
+![image](https://github.com/caduce3/pokedex/assets/74209989/66d6178d-c974-4005-b515-d2f8ce1a414b)
