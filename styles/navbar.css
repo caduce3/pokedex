@@ -53,19 +53,14 @@ body {
 
 
 //MAIN
-.row {
-    
-    
-}
+
 main {
     margin-left: 10px;
     margin-right: 10px;
 }
 
 //CARD
-#card-geral-poke {
-    
-}
+
 
 .card-img-top {
     width: 200px!important;
@@ -92,4 +87,20 @@ main {
 .card-body {
     font-family: 'Chakra Petch', sans-serif;
     font-weight: bold;
+}
+
+.modal-body input{
+    width: 60%!important;
+    margin-bottom: 20px!important;
+    border: 1px solid black!important;
+    
+}
+
+.dsa {
+    display: flex!important;
+    flex-direction: column!important;
+}
+
+label {
+    margin-bottom: 10px!important;
 }

@@ -57,7 +57,7 @@ const createPokemonCard = (poke) => {
                 <div class="card-body">
                     <h5 class="card-title mt-3">${name}</h5>
                     <p class="card-text mt-1" >#${id}</p>
-                    <p class="card-text mt-1">Tipo: ${type}.</p>
+                    <p id="tipo" class="card-text mt-1">Tipo: ${type}.</p>
                 </div>
             </div>
         
