@@ -6,3 +6,6 @@ Decidi utilizar a API do pokemon para fazer um pokedex, onde você pode pesquisa
 - CSS3
 - JavaScript ( API do pokemon fazendo conexão com o Fetch )
 - Bootstrap
+
+
+![image](https://github.com/caduce3/pokedex/assets/74209989/66d6178d-c974-4005-b515-d2f8ce1a414b)
