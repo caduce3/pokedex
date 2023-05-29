@@ -1,5 +1,5 @@
 const pokeContainer = document.getElementById('card-geral-poke');
-const pokemonsCount = 150;
+const pokemonsCount = 1281;
 
 const colors = {
     fire: '#FDDFDF',
